@@ -1,3 +1,8 @@
+# Meteor #
+##########
+.meteor/local
+.meteor/meteorite
+
 # Compiled source #
 ###################
 *.com
